@@ -1,0 +1,16 @@
+C:\Users\Patricia\Desktop\Console Exercicio 6\exercise six\bin\Debug\net5.0\exercise six.exe
+C:\Users\Patricia\Desktop\Console Exercicio 6\exercise six\bin\Debug\net5.0\exercise six.deps.json
+C:\Users\Patricia\Desktop\Console Exercicio 6\exercise six\bin\Debug\net5.0\exercise six.runtimeconfig.json
+C:\Users\Patricia\Desktop\Console Exercicio 6\exercise six\bin\Debug\net5.0\exercise six.runtimeconfig.dev.json
+C:\Users\Patricia\Desktop\Console Exercicio 6\exercise six\bin\Debug\net5.0\exercise six.dll
+C:\Users\Patricia\Desktop\Console Exercicio 6\exercise six\bin\Debug\net5.0\ref\exercise six.dll
+C:\Users\Patricia\Desktop\Console Exercicio 6\exercise six\bin\Debug\net5.0\exercise six.pdb
+C:\Users\Patricia\Desktop\Console Exercicio 6\exercise six\obj\Debug\net5.0\exercise six.csprojAssemblyReference.cache
+C:\Users\Patricia\Desktop\Console Exercicio 6\exercise six\obj\Debug\net5.0\exercise six.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patricia\Desktop\Console Exercicio 6\exercise six\obj\Debug\net5.0\exercise six.AssemblyInfoInputs.cache
+C:\Users\Patricia\Desktop\Console Exercicio 6\exercise six\obj\Debug\net5.0\exercise six.AssemblyInfo.cs
+C:\Users\Patricia\Desktop\Console Exercicio 6\exercise six\obj\Debug\net5.0\exercise six.csproj.CoreCompileInputs.cache
+C:\Users\Patricia\Desktop\Console Exercicio 6\exercise six\obj\Debug\net5.0\exercise six.dll
+C:\Users\Patricia\Desktop\Console Exercicio 6\exercise six\obj\Debug\net5.0\ref\exercise six.dll
+C:\Users\Patricia\Desktop\Console Exercicio 6\exercise six\obj\Debug\net5.0\exercise six.pdb
+C:\Users\Patricia\Desktop\Console Exercicio 6\exercise six\obj\Debug\net5.0\exercise six.genruntimeconfig.cache

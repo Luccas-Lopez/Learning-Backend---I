@@ -1,0 +1,16 @@
+C:\Users\Patricia\Desktop\Console Exercicio 3\exercise three\bin\Debug\net5.0\exercise three.exe
+C:\Users\Patricia\Desktop\Console Exercicio 3\exercise three\bin\Debug\net5.0\exercise three.deps.json
+C:\Users\Patricia\Desktop\Console Exercicio 3\exercise three\bin\Debug\net5.0\exercise three.runtimeconfig.json
+C:\Users\Patricia\Desktop\Console Exercicio 3\exercise three\bin\Debug\net5.0\exercise three.runtimeconfig.dev.json
+C:\Users\Patricia\Desktop\Console Exercicio 3\exercise three\bin\Debug\net5.0\exercise three.dll
+C:\Users\Patricia\Desktop\Console Exercicio 3\exercise three\bin\Debug\net5.0\ref\exercise three.dll
+C:\Users\Patricia\Desktop\Console Exercicio 3\exercise three\bin\Debug\net5.0\exercise three.pdb
+C:\Users\Patricia\Desktop\Console Exercicio 3\exercise three\obj\Debug\net5.0\exercise three.csprojAssemblyReference.cache
+C:\Users\Patricia\Desktop\Console Exercicio 3\exercise three\obj\Debug\net5.0\exercise three.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patricia\Desktop\Console Exercicio 3\exercise three\obj\Debug\net5.0\exercise three.AssemblyInfoInputs.cache
+C:\Users\Patricia\Desktop\Console Exercicio 3\exercise three\obj\Debug\net5.0\exercise three.AssemblyInfo.cs
+C:\Users\Patricia\Desktop\Console Exercicio 3\exercise three\obj\Debug\net5.0\exercise three.csproj.CoreCompileInputs.cache
+C:\Users\Patricia\Desktop\Console Exercicio 3\exercise three\obj\Debug\net5.0\exercise three.dll
+C:\Users\Patricia\Desktop\Console Exercicio 3\exercise three\obj\Debug\net5.0\ref\exercise three.dll
+C:\Users\Patricia\Desktop\Console Exercicio 3\exercise three\obj\Debug\net5.0\exercise three.pdb
+C:\Users\Patricia\Desktop\Console Exercicio 3\exercise three\obj\Debug\net5.0\exercise three.genruntimeconfig.cache

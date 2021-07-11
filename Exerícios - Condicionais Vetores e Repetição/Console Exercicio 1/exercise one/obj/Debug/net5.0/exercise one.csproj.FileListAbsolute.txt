@@ -1,0 +1,16 @@
+C:\Users\Patricia\Desktop\Console Exercicio 1\exercise one\bin\Debug\net5.0\exercise one.exe
+C:\Users\Patricia\Desktop\Console Exercicio 1\exercise one\bin\Debug\net5.0\exercise one.deps.json
+C:\Users\Patricia\Desktop\Console Exercicio 1\exercise one\bin\Debug\net5.0\exercise one.runtimeconfig.json
+C:\Users\Patricia\Desktop\Console Exercicio 1\exercise one\bin\Debug\net5.0\exercise one.runtimeconfig.dev.json
+C:\Users\Patricia\Desktop\Console Exercicio 1\exercise one\bin\Debug\net5.0\exercise one.dll
+C:\Users\Patricia\Desktop\Console Exercicio 1\exercise one\bin\Debug\net5.0\ref\exercise one.dll
+C:\Users\Patricia\Desktop\Console Exercicio 1\exercise one\bin\Debug\net5.0\exercise one.pdb
+C:\Users\Patricia\Desktop\Console Exercicio 1\exercise one\obj\Debug\net5.0\exercise one.csprojAssemblyReference.cache
+C:\Users\Patricia\Desktop\Console Exercicio 1\exercise one\obj\Debug\net5.0\exercise one.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patricia\Desktop\Console Exercicio 1\exercise one\obj\Debug\net5.0\exercise one.AssemblyInfoInputs.cache
+C:\Users\Patricia\Desktop\Console Exercicio 1\exercise one\obj\Debug\net5.0\exercise one.AssemblyInfo.cs
+C:\Users\Patricia\Desktop\Console Exercicio 1\exercise one\obj\Debug\net5.0\exercise one.csproj.CoreCompileInputs.cache
+C:\Users\Patricia\Desktop\Console Exercicio 1\exercise one\obj\Debug\net5.0\exercise one.dll
+C:\Users\Patricia\Desktop\Console Exercicio 1\exercise one\obj\Debug\net5.0\ref\exercise one.dll
+C:\Users\Patricia\Desktop\Console Exercicio 1\exercise one\obj\Debug\net5.0\exercise one.pdb
+C:\Users\Patricia\Desktop\Console Exercicio 1\exercise one\obj\Debug\net5.0\exercise one.genruntimeconfig.cache

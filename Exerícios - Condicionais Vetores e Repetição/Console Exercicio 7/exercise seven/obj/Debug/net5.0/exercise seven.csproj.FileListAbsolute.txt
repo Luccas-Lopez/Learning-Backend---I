@@ -1,0 +1,16 @@
+C:\Users\Patricia\Desktop\Console Exercicio 7\exercise seven\bin\Debug\net5.0\exercise seven.exe
+C:\Users\Patricia\Desktop\Console Exercicio 7\exercise seven\bin\Debug\net5.0\exercise seven.deps.json
+C:\Users\Patricia\Desktop\Console Exercicio 7\exercise seven\bin\Debug\net5.0\exercise seven.runtimeconfig.json
+C:\Users\Patricia\Desktop\Console Exercicio 7\exercise seven\bin\Debug\net5.0\exercise seven.runtimeconfig.dev.json
+C:\Users\Patricia\Desktop\Console Exercicio 7\exercise seven\bin\Debug\net5.0\exercise seven.dll
+C:\Users\Patricia\Desktop\Console Exercicio 7\exercise seven\bin\Debug\net5.0\ref\exercise seven.dll
+C:\Users\Patricia\Desktop\Console Exercicio 7\exercise seven\bin\Debug\net5.0\exercise seven.pdb
+C:\Users\Patricia\Desktop\Console Exercicio 7\exercise seven\obj\Debug\net5.0\exercise seven.csprojAssemblyReference.cache
+C:\Users\Patricia\Desktop\Console Exercicio 7\exercise seven\obj\Debug\net5.0\exercise seven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patricia\Desktop\Console Exercicio 7\exercise seven\obj\Debug\net5.0\exercise seven.AssemblyInfoInputs.cache
+C:\Users\Patricia\Desktop\Console Exercicio 7\exercise seven\obj\Debug\net5.0\exercise seven.AssemblyInfo.cs
+C:\Users\Patricia\Desktop\Console Exercicio 7\exercise seven\obj\Debug\net5.0\exercise seven.csproj.CoreCompileInputs.cache
+C:\Users\Patricia\Desktop\Console Exercicio 7\exercise seven\obj\Debug\net5.0\exercise seven.dll
+C:\Users\Patricia\Desktop\Console Exercicio 7\exercise seven\obj\Debug\net5.0\ref\exercise seven.dll
+C:\Users\Patricia\Desktop\Console Exercicio 7\exercise seven\obj\Debug\net5.0\exercise seven.pdb
+C:\Users\Patricia\Desktop\Console Exercicio 7\exercise seven\obj\Debug\net5.0\exercise seven.genruntimeconfig.cache

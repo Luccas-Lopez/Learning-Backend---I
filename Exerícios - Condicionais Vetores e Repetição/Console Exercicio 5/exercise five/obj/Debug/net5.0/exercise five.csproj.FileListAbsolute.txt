@@ -1,0 +1,16 @@
+C:\Users\Patricia\Desktop\Console Exercicio 5\exercise five\obj\Debug\net5.0\exercise five.csprojAssemblyReference.cache
+C:\Users\Patricia\Desktop\Console Exercicio 5\exercise five\obj\Debug\net5.0\exercise five.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patricia\Desktop\Console Exercicio 5\exercise five\obj\Debug\net5.0\exercise five.AssemblyInfoInputs.cache
+C:\Users\Patricia\Desktop\Console Exercicio 5\exercise five\obj\Debug\net5.0\exercise five.AssemblyInfo.cs
+C:\Users\Patricia\Desktop\Console Exercicio 5\exercise five\obj\Debug\net5.0\exercise five.csproj.CoreCompileInputs.cache
+C:\Users\Patricia\Desktop\Console Exercicio 5\exercise five\bin\Debug\net5.0\exercise five.exe
+C:\Users\Patricia\Desktop\Console Exercicio 5\exercise five\bin\Debug\net5.0\exercise five.deps.json
+C:\Users\Patricia\Desktop\Console Exercicio 5\exercise five\bin\Debug\net5.0\exercise five.runtimeconfig.json
+C:\Users\Patricia\Desktop\Console Exercicio 5\exercise five\bin\Debug\net5.0\exercise five.runtimeconfig.dev.json
+C:\Users\Patricia\Desktop\Console Exercicio 5\exercise five\bin\Debug\net5.0\exercise five.dll
+C:\Users\Patricia\Desktop\Console Exercicio 5\exercise five\bin\Debug\net5.0\ref\exercise five.dll
+C:\Users\Patricia\Desktop\Console Exercicio 5\exercise five\bin\Debug\net5.0\exercise five.pdb
+C:\Users\Patricia\Desktop\Console Exercicio 5\exercise five\obj\Debug\net5.0\exercise five.dll
+C:\Users\Patricia\Desktop\Console Exercicio 5\exercise five\obj\Debug\net5.0\ref\exercise five.dll
+C:\Users\Patricia\Desktop\Console Exercicio 5\exercise five\obj\Debug\net5.0\exercise five.pdb
+C:\Users\Patricia\Desktop\Console Exercicio 5\exercise five\obj\Debug\net5.0\exercise five.genruntimeconfig.cache

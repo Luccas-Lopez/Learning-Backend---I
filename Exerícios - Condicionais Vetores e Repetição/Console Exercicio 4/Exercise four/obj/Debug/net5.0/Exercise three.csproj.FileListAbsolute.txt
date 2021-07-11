@@ -1,0 +1,32 @@
+C:\Users\Patricia\Desktop\Console Exercicio 3\Exercise three\bin\Debug\net5.0\Exercise three.exe
+C:\Users\Patricia\Desktop\Console Exercicio 3\Exercise three\bin\Debug\net5.0\Exercise three.deps.json
+C:\Users\Patricia\Desktop\Console Exercicio 3\Exercise three\bin\Debug\net5.0\Exercise three.runtimeconfig.json
+C:\Users\Patricia\Desktop\Console Exercicio 3\Exercise three\bin\Debug\net5.0\Exercise three.runtimeconfig.dev.json
+C:\Users\Patricia\Desktop\Console Exercicio 3\Exercise three\bin\Debug\net5.0\Exercise three.dll
+C:\Users\Patricia\Desktop\Console Exercicio 3\Exercise three\bin\Debug\net5.0\ref\Exercise three.dll
+C:\Users\Patricia\Desktop\Console Exercicio 3\Exercise three\bin\Debug\net5.0\Exercise three.pdb
+C:\Users\Patricia\Desktop\Console Exercicio 3\Exercise three\obj\Debug\net5.0\Exercise three.csprojAssemblyReference.cache
+C:\Users\Patricia\Desktop\Console Exercicio 3\Exercise three\obj\Debug\net5.0\Exercise three.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patricia\Desktop\Console Exercicio 3\Exercise three\obj\Debug\net5.0\Exercise three.AssemblyInfoInputs.cache
+C:\Users\Patricia\Desktop\Console Exercicio 3\Exercise three\obj\Debug\net5.0\Exercise three.AssemblyInfo.cs
+C:\Users\Patricia\Desktop\Console Exercicio 3\Exercise three\obj\Debug\net5.0\Exercise three.csproj.CoreCompileInputs.cache
+C:\Users\Patricia\Desktop\Console Exercicio 3\Exercise three\obj\Debug\net5.0\Exercise three.dll
+C:\Users\Patricia\Desktop\Console Exercicio 3\Exercise three\obj\Debug\net5.0\ref\Exercise three.dll
+C:\Users\Patricia\Desktop\Console Exercicio 3\Exercise three\obj\Debug\net5.0\Exercise three.pdb
+C:\Users\Patricia\Desktop\Console Exercicio 3\Exercise three\obj\Debug\net5.0\Exercise three.genruntimeconfig.cache
+C:\Users\Patricia\Desktop\SENAI\Exercicios 10-05. C#\Console Exercicio 4\Exercise four\bin\Debug\net5.0\Exercise three.exe
+C:\Users\Patricia\Desktop\SENAI\Exercicios 10-05. C#\Console Exercicio 4\Exercise four\bin\Debug\net5.0\Exercise three.deps.json
+C:\Users\Patricia\Desktop\SENAI\Exercicios 10-05. C#\Console Exercicio 4\Exercise four\bin\Debug\net5.0\Exercise three.runtimeconfig.json
+C:\Users\Patricia\Desktop\SENAI\Exercicios 10-05. C#\Console Exercicio 4\Exercise four\bin\Debug\net5.0\Exercise three.runtimeconfig.dev.json
+C:\Users\Patricia\Desktop\SENAI\Exercicios 10-05. C#\Console Exercicio 4\Exercise four\bin\Debug\net5.0\Exercise three.dll
+C:\Users\Patricia\Desktop\SENAI\Exercicios 10-05. C#\Console Exercicio 4\Exercise four\bin\Debug\net5.0\ref\Exercise three.dll
+C:\Users\Patricia\Desktop\SENAI\Exercicios 10-05. C#\Console Exercicio 4\Exercise four\bin\Debug\net5.0\Exercise three.pdb
+C:\Users\Patricia\Desktop\SENAI\Exercicios 10-05. C#\Console Exercicio 4\Exercise four\obj\Debug\net5.0\Exercise three.csprojAssemblyReference.cache
+C:\Users\Patricia\Desktop\SENAI\Exercicios 10-05. C#\Console Exercicio 4\Exercise four\obj\Debug\net5.0\Exercise three.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patricia\Desktop\SENAI\Exercicios 10-05. C#\Console Exercicio 4\Exercise four\obj\Debug\net5.0\Exercise three.AssemblyInfoInputs.cache
+C:\Users\Patricia\Desktop\SENAI\Exercicios 10-05. C#\Console Exercicio 4\Exercise four\obj\Debug\net5.0\Exercise three.AssemblyInfo.cs
+C:\Users\Patricia\Desktop\SENAI\Exercicios 10-05. C#\Console Exercicio 4\Exercise four\obj\Debug\net5.0\Exercise three.csproj.CoreCompileInputs.cache
+C:\Users\Patricia\Desktop\SENAI\Exercicios 10-05. C#\Console Exercicio 4\Exercise four\obj\Debug\net5.0\Exercise three.dll
+C:\Users\Patricia\Desktop\SENAI\Exercicios 10-05. C#\Console Exercicio 4\Exercise four\obj\Debug\net5.0\ref\Exercise three.dll
+C:\Users\Patricia\Desktop\SENAI\Exercicios 10-05. C#\Console Exercicio 4\Exercise four\obj\Debug\net5.0\Exercise three.pdb
+C:\Users\Patricia\Desktop\SENAI\Exercicios 10-05. C#\Console Exercicio 4\Exercise four\obj\Debug\net5.0\Exercise three.genruntimeconfig.cache

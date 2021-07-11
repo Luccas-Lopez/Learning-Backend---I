@@ -1,0 +1,16 @@
+C:\Users\Patricia\Desktop\Console Exercicio 2\exercise two\bin\Debug\net5.0\exercise two.exe
+C:\Users\Patricia\Desktop\Console Exercicio 2\exercise two\bin\Debug\net5.0\exercise two.deps.json
+C:\Users\Patricia\Desktop\Console Exercicio 2\exercise two\bin\Debug\net5.0\exercise two.runtimeconfig.json
+C:\Users\Patricia\Desktop\Console Exercicio 2\exercise two\bin\Debug\net5.0\exercise two.runtimeconfig.dev.json
+C:\Users\Patricia\Desktop\Console Exercicio 2\exercise two\bin\Debug\net5.0\exercise two.dll
+C:\Users\Patricia\Desktop\Console Exercicio 2\exercise two\bin\Debug\net5.0\ref\exercise two.dll
+C:\Users\Patricia\Desktop\Console Exercicio 2\exercise two\bin\Debug\net5.0\exercise two.pdb
+C:\Users\Patricia\Desktop\Console Exercicio 2\exercise two\obj\Debug\net5.0\exercise two.csprojAssemblyReference.cache
+C:\Users\Patricia\Desktop\Console Exercicio 2\exercise two\obj\Debug\net5.0\exercise two.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patricia\Desktop\Console Exercicio 2\exercise two\obj\Debug\net5.0\exercise two.AssemblyInfoInputs.cache
+C:\Users\Patricia\Desktop\Console Exercicio 2\exercise two\obj\Debug\net5.0\exercise two.AssemblyInfo.cs
+C:\Users\Patricia\Desktop\Console Exercicio 2\exercise two\obj\Debug\net5.0\exercise two.csproj.CoreCompileInputs.cache
+C:\Users\Patricia\Desktop\Console Exercicio 2\exercise two\obj\Debug\net5.0\exercise two.dll
+C:\Users\Patricia\Desktop\Console Exercicio 2\exercise two\obj\Debug\net5.0\ref\exercise two.dll
+C:\Users\Patricia\Desktop\Console Exercicio 2\exercise two\obj\Debug\net5.0\exercise two.pdb
+C:\Users\Patricia\Desktop\Console Exercicio 2\exercise two\obj\Debug\net5.0\exercise two.genruntimeconfig.cache
